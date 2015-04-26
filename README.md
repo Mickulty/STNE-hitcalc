@@ -1,7 +1,8 @@
 # STNE-hitcalc
 STNE Hit Calc - a simple calculator for hit chance on STNE.
 
-***TO RUN:*************************************************
+***********************************************************
+TO RUN:
 -You do NOT need the .java file (the .java file contains the source code)
 -You should be able to run the .jar file like a .exe if you have the latest version of java installed
 ***********************************************************
